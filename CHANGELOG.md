@@ -5,6 +5,14 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+### [2.2.1](https://www.github.com/googleapis/python-pubsub/compare/v2.2.0...v2.2.1) (2020-12-21)
+
+
+### Bug Fixes
+
+* flaky samples tests ([#263](https://www.github.com/googleapis/python-pubsub/issues/263)) ([3d6a29d](https://www.github.com/googleapis/python-pubsub/commit/3d6a29de07cc09be663c90a3333f4cd33633994f))
+* pass anonymous credentials for emulator ([#250](https://www.github.com/googleapis/python-pubsub/issues/250)) ([8eed8e1](https://www.github.com/googleapis/python-pubsub/commit/8eed8e16019510dc8b20fb6b009d61a7ac532d26))
+
 ## [2.2.0](https://www.github.com/googleapis/python-pubsub/compare/v2.1.0...v2.2.0) (2020-11-16)
 
 
